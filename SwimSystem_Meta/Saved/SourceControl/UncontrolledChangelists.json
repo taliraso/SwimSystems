@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Sourcetree/SwimSystem_UE5_MetaSounds/SwimSystem_Meta/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"E:/Sourcetree/SwimSystem_UE5_MetaSounds/SwimSystem_Meta/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"E:/Sourcetree/SwimSystem_UE5_MetaSounds/SwimSystem_Meta/Content/WaterLevel.umap",
+				"E:/Sourcetree/SwimSystem_UE5_MetaSounds/SwimSystem_Meta/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"E:/Sourcetree/SwimSystem_UE5_MetaSounds/SwimSystem_Meta/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"E:/Sourcetree/SwimSystem_UE5_MetaSounds/SwimSystem_Meta/Content/StarterContent/Maps/WaterLvl.umap",
+				"E:/Sourcetree/SwimSystem_UE5_MetaSounds/SwimSystem_Meta/Content/Waves/NewWaterWavesAsset.uasset",
+				"D:/GAMES/UE_5.1/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_Ocean.uasset",
+				"E:/Sourcetree/SwimSystem_UE5_MetaSounds/SwimSystem_Meta/Content/FloatableObjects.uasset"
 			]
 		}
 	]
