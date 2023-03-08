@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+SwimSystem_Meta/Saved/Logs/
+SwimSystem_Meta/Saved/Config/
